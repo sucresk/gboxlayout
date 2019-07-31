@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "es5",
+		"watch": false,
+		"sourceMap": true,
+		"declaration": true,
+		"outFile": "bin/gboxlayout.js"
+	},
+	"exclude": [
+		"bin"
+	]
+}
